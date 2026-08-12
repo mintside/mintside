@@ -1,11 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
-
 <h1 align="center">Hi there 👋 I'm mintside</h1>
 <h3 align="center">A Passionate Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
 <br/>
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/43e5a52898ea4be287096bb93f90c434fc51dad4ba1a56c1b4038b6d1e812fd1/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966">
 
 - 🔭 I’m currently studying as *Open Source Contributor*
 
@@ -67,5 +65,3 @@
 </picture>
 
 <img src="/metrics.plugin.calendar.full.svg" alt="Metrics" width="100%">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
